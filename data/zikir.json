@@ -2,16 +2,16 @@
   {
     "day": 1,
     "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",
+    "zikir_tr": "Lâ ilâhe illallah",
     "hedef": "100",
     "anlam": "Allah’tan başka ilah yoktur"
   },
   {
     "day": 2,
     "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",
+    "zikir_tr": "Allâhu Ekber",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah en büyüktür."
   },
   {
     "day": 3,
@@ -203,6 +203,7 @@
     "anlam": "Allah’tan başka ilah yoktur"
   }
 ]
+
 
 
 
