@@ -16,9 +16,9 @@
   {
     "day": 3,
     "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",
+    "zikir_tr": "Lâ havle ve lâ kuvvete illâ billâh",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Güç ve kuvvet yalnızca Allah’tandır."
   },
   {
     "day": 4,
@@ -203,6 +203,7 @@
     "anlam": "Allah’tan başka ilah yoktur"
   }
 ]
+
 
 
 
