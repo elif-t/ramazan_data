@@ -12,7 +12,7 @@
     "isim": "Er-Rahman",
     "isim_ar": "الرَّحْمَنُ",
     "anlam": "Sonsuz merhamet eden ve bütün varlıkları sayısız nimetlerle besleyen.",
-    "anlam_uzun": "Kul, yaratılmış alemin ötesindeki varlıkları idrak edebilmek için Rahman ismine muhtaçtır. Bu isim, yalnızca Allah’a mahsustur; insanlar bu isimle nitelenemezler. Rahman ismi, genel ve kapsamlı bir merhameti ifade eder. Bu kapsam, Allah’ın yaratma fiiliyle ilişkilidir. 'Rahmetim her şeyi kuşatmıştır' (A'râf, 156) ayeti, bu ismin sınırsızlığını gösterir. Varlıkların birbirlerine şefkat ve yardımlaşma göstermesi, Rahman isminin bir tezahürüdür. Bu isim, Allah’ın tüm varlıklarına yönelik kapsayıcı sevgisini ve nimetlerini anlatır.",
+    "anlam_uzun": "Kul, yaratılmış alemin ötesindeki varlıkları idrak edebilmek için Rahman ismine muhtaçtır. Bu isim, yalnızca Allah’a mahsustur; insanlar bu isimle nitelenemezler. Rahman ismi, genel ve kapsamlı bir merhameti ifade eder. Bu kapsam, Allah’ın yaratma fiiliyle ilişkilidir. **'Rahmetim her şeyi kuşatmıştır' (A'râf, 156)** ayeti, bu ismin sınırsızlığını gösterir. Varlıkların birbirlerine şefkat ve yardımlaşma göstermesi, Rahman isminin bir tezahürüdür. Bu isim, Allah’ın tüm varlıklarına yönelik kapsayıcı sevgisini ve nimetlerini anlatır.",
     "dua": "Ey Rahman olan Rabbim! Sonsuz merhametinle kalbimi yumuşat, beni nimetlerinin farkında olan kullarından eyle. Her nefeste Senin rahmetini hissedip, o rahmeti başkalarına yansıtabilmeyi nasip et."
   },
   {
@@ -20,7 +20,7 @@
     "isim": "Er-Rahîm",
     "isim_ar": "الرَّحِيمُ",
     "anlam": "İhsanı ve merhameti daim olan.",
-    "anlam_uzun": "Mü’min, ebedî saadete ulaştıran özel bir rahmete erişebilmek için Rahîm ismine muhtaçtır. İnsan, varlık sahasına geldiğinde hem sıkıntılarla hem de huzur veren durumlarla karşılaşır. Rahîm ismi tamamen hayırla ilgilidir; hiçbir zaman zararı içermez. Zahiren zarar gibi görünen olayların içinde dahi hayır ve rahmet gizlidir. Bu nedenle 'Rahmetim ise her şeyi kuşatmıştır. İleride onu özellikle kötülükten sakınanlara, zekatını verenlere ve ayetlerimize inananlara yazacağım.' (A’râf, 156) ayeti, Rahîm isminin seçilmiş kullara yönelik özel rahmetini açıklar. Bu isimle ahlaklanan kul, Allah’ın merhamet edilmesini emrettiği kimselere merhamet eder, adaletin gerektirdiği yerde ise öfkesini kontrol altında tutar.",
+    "anlam_uzun": "Mü’min, ebedî saadete ulaştıran özel bir rahmete erişebilmek için Rahîm ismine muhtaçtır. İnsan, varlık sahasına geldiğinde hem sıkıntılarla hem de huzur veren durumlarla karşılaşır. Rahîm ismi tamamen hayırla ilgilidir; hiçbir zaman zararı içermez. Zahiren zarar gibi görünen olayların içinde dahi hayır ve rahmet gizlidir. Bu nedenle **'Rahmetim ise her şeyi kuşatmıştır. İleride onu özellikle kötülükten sakınanlara, zekatını verenlere ve ayetlerimize inananlara yazacağım.' (A’râf, 156)** ayeti, Rahîm isminin seçilmiş kullara yönelik özel rahmetini açıklar.\n\n**Bu isimle ahlaklanan kul, Allah’ın merhamet edilmesini emrettiği kimselere merhamet eder, adaletin gerektirdiği yerde ise öfkesini kontrol altında tutar.**",
     "dua": "Ey Rahîm olan Rabbim! Merhametini üzerimden eksik etme. Kalbime sabır, dilime şükür, davranışlarıma incelik ver. Bana lütfettiğin rahmeti, etrafımdakilere de ulaştırabilmeyi nasip eyle."
   },
   {
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
