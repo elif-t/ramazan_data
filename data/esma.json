@@ -1,11 +1,11 @@
 [
   {
     "day": 1,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "Allah",
+    "isim_ar": "اَللّٰه‎",
+    "anlam": "Varlığı zorunlu olan ve bütün övgülere layık bulunan.",
+    "anlam_uzun": "Bu isim, diğer bütün isim ve sıfatları kendisinde toplayan zâtî bir isimdir. İnsan, var olan her şeye özlü ve kapsamlı biçimde ulaşmak için bu isme ihtiyaç duyar. Alemde nitelendirilemeyecek ve hiçbir şekilde tanımlanamayacak olgular mevcuttur. Allah, evrene sebep-sonuç ilişkisinin ötesinde, hikmetli bir biçimde yön vermektedir. Alemin dışında ise çok özel bir hükümle muamele etmektedir. Bu nedenle 'Bana dua edin ki size cevap vereyim' buyurmuştur. Buradaki icabet, mutlak anlamda değil, aleme yönelik belirli alanlardaki yönelişlerdir. Böyle bir yöneliş mertebesine ulaşan kimse, Allah adıyla ahlaklanır. Ancak bu, sadece Allah’a mahsus olan mutlak anlamda bir benzerlik değil; O’nun sıfatlarından yansıyan bir tecelliye yöneliştir.",
+    "dua": "Ey Allah! Varlığınla kalbime huzur ver, hikmetinle aklıma aydınlık bahşet. Beni sadece Sana yönelen, her işinde Senin rızanı gözeten kullarından eyle."
   },
   {
     "day": 2,
@@ -232,4 +232,5 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
