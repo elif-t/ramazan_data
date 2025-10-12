@@ -72,20 +72,20 @@
     "dua": "Ey Azîz olan Rabbim! Yüce izzetinle beni şereflendir, güçsüzlüklerimden koru. Kalbime izzetin bilincini ver, beni izzet ve değer sahibi kullarından eyle. Azîz isminin hürmetine, ümmetimizi zillete düşmekten muhafaza eyle."
   },
   {
-    "day": 9,
+    "day": 10,
     "isim": "El-Cebbâr",
     "isim_ar": "الْجَبَّارُ",
     "anlam": "İradesini ve azametini gösteren.",
     "anlam_uzun": "“Cebbâr” kelimesi, «kırılmış, bozulmuş olanı ıslah eden, her şeyi tasarrufu altına alan, iradesini her durumda yürüten» anlamlarını taşır.\n\nAllahu Teâlâ, eksikliği, bozulmayı düzeltmekte en güçlüdür; yarattığı varlıkların halini yerli yerine koyar, kırılmış kalpleri onarır.Bu isim; Allah’ın izzet ve kudretini, düzen bozulan âlemi yeniden tertip eden ilâhî iradesini gösterir.“Cebr” kökünden gelen anlamıyla O, çokça kudret kullanarak düzeni tesis eden “Cebbâr”dır; bu irade, zulme dönüşmez, aksine yaratılmışı ıslah eden bir iradedir.",
     "dua": "Ey Cebbâr olan Rabbim! Kırılmış yönlerimi onar, eksikliğim olan yerde beni tamamla. Kudretinle beni güçlendir; irademi Senin rızâna yönelt, kalbimi sabır ve dirayet sahibi eyle."
   },
-    {
+  {
     "day": 11,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Mütekebbir",
+    "isim_ar": "الْمُتَكَبِّرُ",
+    "anlam": "Büyüklüğünü ve yüceliğini izhar eden.",
+    "anlam_uzun": "El-Mütekebbir ismi, Allah’ın mutlak büyüklüğünü ve yüceliğini ifade eder. Kul, Allah karşısında tevazu içinde olarak, O’nun kudreti ve yüceliğini kabul eder. İnsan açısından ise, Allah’ın rızasına uygun şekilde, yaratılmışlara karşı kibir ve üstünlük taslamadan, manevi ve ahlaki olarak olgunlaşmak amacıyla bu isme muhtaçtır. Bu tekebbür, Allah’a değil, yaratılmışlara karşı doğru bir duruş ve üstünlüğün hikmetli kullanımını anlatır. **Allah’a karşı eziklik ve teslimiyet, O’nun büyüklüğünü takdir etmenin göstergesidir**.",
+    "dua": "Ey Mütekebbir olan Rabbim! Büyüklüğünü ve yüceliğini kalbimde idrak edebilmemi nasip eyle. Beni tevazu sahibi kıl, yaratılmışlara karşı doğru bir duruşla ahlaklanmamı sağla. Kudretin ve büyüklüğün şerefine, hayatımı Senin rızana uygun yaşat."
   },
     {
     "day": 12,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
