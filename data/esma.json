@@ -87,21 +87,21 @@
     "anlam_uzun": "El-Mütekebbir ismi, Allah’ın mutlak büyüklüğünü ve yüceliğini ifade eder. Kul, Allah karşısında tevazu içinde olarak, O’nun kudreti ve yüceliğini kabul eder. İnsan açısından ise, Allah’ın rızasına uygun şekilde, yaratılmışlara karşı kibir ve üstünlük taslamadan, manevi ve ahlaki olarak olgunlaşmak amacıyla bu isme muhtaçtır. Bu tekebbür, Allah’a değil, yaratılmışlara karşı doğru bir duruş ve üstünlüğün hikmetli kullanımını anlatır. **Allah’a karşı eziklik ve teslimiyet, O’nun büyüklüğünü takdir etmenin göstergesidir**.",
     "dua": "Ey Mütekebbir olan Rabbim! Büyüklüğünü ve yüceliğini kalbimde idrak edebilmemi nasip eyle. Beni tevazu sahibi kıl, yaratılmışlara karşı doğru bir duruşla ahlaklanmamı sağla. Kudretin ve büyüklüğün şerefine, hayatımı Senin rızana uygun yaşat."
   },
-    {
+  {
     "day": 12,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Hâlık",
+    "isim_ar": "الْخَالِقُ",
+    "anlam": "Her şeyi yoktan var eden, yaratan.",
+    "anlam_uzun": "Kul, kararlarında isabet sağlamak ve yapılması gereken işleri, kulluk görevlerini yerli yerinde ve gereği gibi yapmak amacıyla **Hâlık** ismine muhtaçtır. **Hâlık**, bir şey daha yokken onu var eden demektir. Allah’ın ilmindeki hâlin devamı olarak, varlıklar bu ikinci mertebede kendileri var edilir ve bu süreç, yaratmanın ta kendisidir.",
+    "dua": "Ey Hâlık olan Rabbim! Kalbime yaratma kudretini idrak etme bilinci ver. İşlerimi ve kulluk görevlerimi Senin rızana uygun, eksiksiz ve düzenli şekilde gerçekleştirmeyi nasip eyle."
   },
-    {
+  {
     "day": 13,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Bâri",
+    "isim_ar": "الْبَارِئُ",
+    "anlam": "Her şeyi örneğine uygun şekilde var eden, mükemmel biçimde yaratan.",
+    "anlam_uzun": "Allah Teâlâ’nın Hâlık ismine muhtaç olunan hususları neyse, **Bâri** ismine de ihtiyaç aynıdır; çünkü O, yaratılmış varlıkları kendi örnek ve ölçülerine uygun şekilde tertip eden, kusursuz ve düzenli bir yaratıcıdır. Bu isim, Allah’ın hikmet ve düzenle yarattığı her şeyde tecelli eder.",
+    "dua": "Ey Bâri olan Rabbim! Yaratılmış her varlığa verdiğin ölçü ve düzeni kalbimde de göster. Yaptığım işlerde ve davranışlarımda düzeni, hikmeti ve kusursuzluğu Senin kudretinle yaşamayı nasip eyle."
   },
     {
     "day": 14,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
