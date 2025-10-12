@@ -47,13 +47,13 @@
     "anlam_uzun": "Kul, kendini yanlışlıklara düşmekten korumak amacıyla bu isme ihtiyaç duyar. Eğer böyle bir duruma düşülmüşse, bunun kalıcı hale gelmemesi için de yine bu isme muhtaçtır. **Selâm**, kişinin kendi aleyhine olabilecek her türlü zararlı durumdan uzak kalması anlamına gelir.\n\nBu isim ile **Kuddûs** ismi arasındaki fark şudur: **Kuddûs**, arındırmayı gerektirecek bir husus ortaya çıktıktan sonra devreye girer; **Selâm** ise, böyle bir eylem olsun ya da olmasın, baştan itibaren huzur ve emniyet haliyle var olur.",
     "dua": "Ey Selâm olan Rabbim! Kalbimi korkulardan arındır, içime huzur ve güven indir. Beni yanlışlıklardan koru, her halimde Senin selametini hissedebilmeyi nasip eyle."
   },
-    {
+  {
     "day": 7,
     "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim_ar": "الْمُؤْمِنُ",
+    "anlam": "Güven veren, emin kılan ve tasdik eden.",
+    "anlam_uzun": "Allah’tan gelen buyrukları ve O’nun gönderdiklerini tasdik etmek amacıyla bu isme ihtiyaç duyulur. **Mü’min**’in bir anlamı da, tasdik eden (musaddık) demektir. Bir kulun, çevresindeki insanların can, mal ve namuslarını güvende hissetmelerini sağlaması, bu ismin kuldaki yansımasıdır. Bu isimle ahlaklanan kimse, hem Allah’a iman ederek güven duyan hem de etrafına güven veren kimsedir.\n\nGerçek mü’min, Allah’ın kendisine bahşettiği emniyet duygusunu başkalarına da yansıtır; korku yerine güven, endişe yerine huzur yayar.",
+    "dua": "Ey Mü’min olan Rabbim! Kalbime sarsılmaz bir iman, ruhuma derin bir güven ihsan eyle. Beni hem Sana güvenen hem de etrafına güven veren kullarından eyle."
   },
     {
     "day": 8,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
