@@ -68,16 +68,16 @@
     "isim": "El-Azîz",
     "isim_ar": "الْعَزِيزُ",
     "anlam": "Yüce izzet sahibi, mağlûp edilemeyen mutlak galip.",
-    "anlam_uzun": "Allah Teâlâ’nın kudreti galip, şeref ve izzeti sonsuzdur. O’nun gücü hiçbir zaman zayıflamaz, hiçbir kimse O’na mukavemet edemez. “Azîz” ismi; üstünlük, şeref, değer ve galip gelme manalarını içerir. :contentReference[oaicite:0]{index=0}\n\nKur’ân’da birçok ayette “Azîz” ismi, “kavî”, “hakîm”, “rahîm” gibi isimlerle birlikte geçer; O’nun azametinin hikmet ve rahmet ile dengelenmiş olduğunu gösterir. :contentReference[oaicite:1]{index=1}\n\nAllah, kötünün cezasını ahirete erteleyebilir, ona ıslah imkânı tanıyabilir; ancak O’nun azametinde adalet eksilmez. :contentReference[oaicite:2]{index=2}",
+    "anlam_uzun": "Allah Teâlâ’nın kudreti galip, şeref ve izzeti sonsuzdur. O’nun gücü hiçbir zaman zayıflamaz, hiçbir kimse O’na mukavemet edemez. “Azîz” ismi; üstünlük, şeref, değer ve galip gelme manalarını içerir.\n\nKur’ân’da birçok ayette “Azîz” ismi, “kavî”, “hakîm”, “rahîm” gibi isimlerle birlikte geçer; O’nun azametinin hikmet ve rahmet ile dengelenmiş olduğunu gösterir.\n\nAllah, kötünün cezasını ahirete erteleyebilir, ona ıslah imkânı tanıyabilir; ancak O’nun azametinde adalet eksilmez.",
     "dua": "Ey Azîz olan Rabbim! Yüce izzetinle beni şereflendir, güçsüzlüklerimden koru. Kalbime izzetin bilincini ver, beni izzet ve değer sahibi kullarından eyle. Azîz isminin hürmetine, ümmetimizi zillete düşmekten muhafaza eyle."
   },
-    {
-    "day": 10,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+  {
+    "day": 9,
+    "isim": "El-Cebbâr",
+    "isim_ar": "الْجَبَّارُ",
+    "anlam": "İradesini ve azametini gösteren.",
+    "anlam_uzun": "“Cebbâr” kelimesi, «kırılmış, bozulmuş olanı ıslah eden, her şeyi tasarrufu altına alan, iradesini her durumda yürüten» anlamlarını taşır.\n\nAllahu Teâlâ, eksikliği, bozulmayı düzeltmekte en güçlüdür; yarattığı varlıkların halini yerli yerine koyar, kırılmış kalpleri onarır.Bu isim; Allah’ın izzet ve kudretini, düzen bozulan âlemi yeniden tertip eden ilâhî iradesini gösterir.“Cebr” kökünden gelen anlamıyla O, çokça kudret kullanarak düzeni tesis eden “Cebbâr”dır; bu irade, zulme dönüşmez, aksine yaratılmışı ıslah eden bir iradedir.",
+    "dua": "Ey Cebbâr olan Rabbim! Kırılmış yönlerimi onar, eksikliğim olan yerde beni tamamla. Kudretinle beni güçlendir; irademi Senin rızâna yönelt, kalbimi sabır ve dirayet sahibi eyle."
   },
     {
     "day": 11,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
