@@ -103,21 +103,21 @@
     "anlam_uzun": "Allah Teâlâ’nın Hâlık ismine muhtaç olunan hususları neyse, **Bâri** ismine de ihtiyaç aynıdır; çünkü O, yaratılmış varlıkları kendi örnek ve ölçülerine uygun şekilde tertip eden, kusursuz ve düzenli bir yaratıcıdır. Bu isim, Allah’ın hikmet ve düzenle yarattığı her şeyde tecelli eder.",
     "dua": "Ey Bâri olan Rabbim! Yaratılmış her varlığa verdiğin ölçü ve düzeni kalbimde de göster. Yaptığım işlerde ve davranışlarımda düzeni, hikmeti ve kusursuzluğu Senin kudretinle yaşamayı nasip eyle."
   },
-    {
+  {
     "day": 14,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Musavvir",
+    "isim_ar": "الْمُصَوِّرُ",
+    "anlam": "Varlıklara şekil ve suret veren, form kazandıran.",
+    "anlam_uzun": "Kalp ve zihne doğan manaların anlaşılması ve tasavvur edilmesi amacıyla bu isme ihtiyaç duyulur. Allah, mahlukatın a’razlarını (şekil, kütle ve diğer nitelikler) yaratan ve onlara form kazandırandır. Bu, yaratılışın üçüncü mertebesinde, Hâlık ve Bâri’nin ardından gelen bir tecellidir. Nitekim Kur’an’da şöyle buyrulmuştur: **\"Allah ki, Hâlık, Bâri ve Musavvir'dir.\" (Haşr, 59:24)**",
+    "dua": "Ey Musavvir olan Rabbim! Varlıklara verdiğin şekil ve düzen gibi kalbime de hikmet ve uyum ihsan eyle. Düşüncelerimi, davranışlarımı ve niyetlerimi Senin kudretinle şekillendir; beni güzellik ve ahlakla donat."
   },
-    {
+  {
     "day": 15,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Gaffar",
+    "isim_ar": "الْغَفَّارُ",
+    "anlam": "Günahları affeden, bağışlayan.",
+    "anlam_uzun": "Kul, kendini ebedi huzursuzluğa götürecek her türlü düşünce ve davranıştan korumak ve bağışlanmak için **El-Gaffar** ismine muhtaçtır. **Gaffar**, yaratılışın başından itibaren insanların eksikliklerini ve hatalarını örtüp, her türlü zarardan koruyan ve günahları affeden Allah’tır. Bu isim, Allah’ın merhamet ve affedicilik yönünü yansıtır ve kulun tövbe ve pişmanlık yoluyla O’na yaklaşmasını sağlar.",
+    "dua": "Ey Gaffar olan Rabbim! Günahlarımı affet, kalbimi arındır, hatalarımı ört. Beni Senin rahmetinle kuşat, tövbemi kabul et ve bana doğru yolda sebat nasip eyle."
   },
     {
     "day": 16,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
