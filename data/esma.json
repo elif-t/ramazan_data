@@ -33,11 +33,11 @@
   },
   {
     "day": 5,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Kuddûs",
+    "isim_ar": "الْقُدُّوسُ",
+    "anlam": "Noksan sıfatlardan sadece sıfatıyla değil, zâtıyla da münezzeh olan.",
+    "anlam_uzun": "Bir mü’min, hem fiziksel anlamda safiyete erişmekte, hem olumsuz fiillerini düzeltmekte hem de nefsini kötülüklerden arındırmakta bu isme ihtiyaç duyar.\n\nAllah’ın, uzuvlarını günah işlemekten sakındığı; gönlünü herhangi bir varlığa yöneltmekten koruduğu kimse, bu isimle ahlaklanmış şerefli bir kuldur. Bu kişi, **\"Beni yer ve göğüm sığdıramadı, mü’min kulumun kalbi sığdırdı\"** hadisinde ifade edilen geniş kalbin sahibidir. **Çünkü El-Kuddûs ancak takdis edilmiş bir evde bulunabilir; o mukaddes ev de takva sahibi ve nezih mü’minin kalbidir.**",
+    "dua": "Ey Kuddûs olan Rabbim! Kalbimi dünya kirlerinden arındır, ruhumu safiyetinle yıka. Nefsimin karanlık yönlerinden beni uzaklaştır ve içimi sadece Senin nurunla doldur."
   },
     {
     "day": 6,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
