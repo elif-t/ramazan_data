@@ -39,13 +39,13 @@
     "anlam_uzun": "Bir mü’min, hem fiziksel anlamda safiyete erişmekte, hem olumsuz fiillerini düzeltmekte hem de nefsini kötülüklerden arındırmakta bu isme ihtiyaç duyar.\n\nAllah’ın, uzuvlarını günah işlemekten sakındığı; gönlünü herhangi bir varlığa yöneltmekten koruduğu kimse, bu isimle ahlaklanmış şerefli bir kuldur. Bu kişi, **\"Beni yer ve göğüm sığdıramadı, mü’min kulumun kalbi sığdırdı\"** hadisinde ifade edilen geniş kalbin sahibidir. **Çünkü El-Kuddûs ancak takdis edilmiş bir evde bulunabilir; o mukaddes ev de takva sahibi ve nezih mü’minin kalbidir.**",
     "dua": "Ey Kuddûs olan Rabbim! Kalbimi dünya kirlerinden arındır, ruhumu safiyetinle yıka. Nefsimin karanlık yönlerinden beni uzaklaştır ve içimi sadece Senin nurunla doldur."
   },
-    {
+   {
     "day": 6,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "Es-Selâm",
+    "isim_ar": "السَّلاَمُ",
+    "anlam": "Esenlik, güven ve selamet veren.",
+    "anlam_uzun": "Kul, kendini yanlışlıklara düşmekten korumak amacıyla bu isme ihtiyaç duyar. Eğer böyle bir duruma düşülmüşse, bunun kalıcı hale gelmemesi için de yine bu isme muhtaçtır. **Selâm**, kişinin kendi aleyhine olabilecek her türlü zararlı durumdan uzak kalması anlamına gelir.\n\nBu isim ile **Kuddûs** ismi arasındaki fark şudur: **Kuddûs**, arındırmayı gerektirecek bir husus ortaya çıktıktan sonra devreye girer; **Selâm** ise, böyle bir eylem olsun ya da olmasın, baştan itibaren huzur ve emniyet haliyle var olur.",
+    "dua": "Ey Selâm olan Rabbim! Kalbimi korkulardan arındır, içime huzur ve güven indir. Beni yanlışlıklardan koru, her halimde Senin selametini hissedebilmeyi nasip eyle."
   },
     {
     "day": 7,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
