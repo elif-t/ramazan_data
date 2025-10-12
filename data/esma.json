@@ -25,11 +25,11 @@
   },
   {
     "day": 4,
-    "isim": "El-Mü’min",
-    "isim_ar":"الْمُؤْمِنُ",
-    "anlam": "Bütün mahlûkâta emniyet/güven veren ve kendisine güvenilen.",
-    "anlam_uzun": "El-Mü'min ismi, Allah'in kullarina huzur ve güven veren yüce merhametini anlatir. Bu ismi hayatimiza yansitmak için, insanlara güven veren bir birey olmaya çalismaliyiz. Verdigimiz sözleri tutarak, merhametle yaklasarak, güvenilir bir insan olmaliyiz. Zor zamanlarimizda el-Mü'min ismini anarak Allah'in bize verdigi güven duygusuna siginabiliriz.",
-    "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
+    "isim": "El-Melik",
+    "isim_ar": "الْمَلِكُ",
+    "anlam": "Her şeyin sahibi ve mutlak hükümran olan.",
+    "anlam_uzun": "Kul bu isme, Allah'ın insanı yeryüzünde halife kıldığı alanda kendisini desteklemesi için ihtiyaç duyar. **Melik** odur ki, varlığın tamamı O’na aittir.\n\nİnsanın iradesi, Allah’ın iradesine uygunluk gösterirse, arzu ettiği durum gerçekleşir. Bu durumda o kimse de Allah’ın izniyle bir melik olarak anılır. Nitekim bu oluşum bir kutsal hadiste şöyle vurgulanmıştır: **\"Kulum, farz ibadetlerden daha sevimli bir şeyle bana yaklaşamaz. Nafile ibadetlerle de bana yaklaşmaya devam eder. Sonuçta ben onu severim. Sevince de onun işiten kulağı, gören gözü, tutan eli, yürüyen ayağı olurum.\"**",
+    "dua": "Ey Melik olan Rabbim! Kalbimin, hayatımın ve tüm varlığımın tek sahibi Sensin. Beni nefsimin ve dünyanın esiri eyleme. Hükümranlığını gönlümde daim kıl, her işimde Senin iradene boyun eğebilmeyi nasip et."
   },
   {
     "day": 5,
@@ -232,6 +232,7 @@
     "dua": "Ey el-Mü min olan Rabbim! Kalbime huzur, gönlümde emniyet, hayatima güven duygusunu ihsan eyle!"
   }
 ]
+
 
 
 
