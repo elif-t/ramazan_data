@@ -1,211 +1,205 @@
 [
   {
     "day": 1,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah",
+    "zikir_ar": "سُبْحَانَ اللَّهِ",
+    "zikir_tr": "Subhânallâh",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah noksan sıfatlardan uzaktır."
   },
   {
     "day": 2,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "zikir_ar": "اَلْـحَمْدُ لِلّٰهِ",
+    "zikir_tr": "Elhamdulillâh",
+    "hedef": "100",
+    "anlam": "Hamd Allah’a mahsustur."
+  },
+  {
+    "day": 3,
+    "zikir_ar": "اَللّٰهُ أَكْبَرُ",
     "zikir_tr": "Allâhu Ekber",
     "hedef": "100",
     "anlam": "Allah en büyüktür."
   },
   {
-    "day": 3,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ havle ve lâ kuvvete illâ billâh",
-    "hedef": "100",
-    "anlam": "Güç ve kuvvet yalnızca Allah’tandır."
-  },
-  {
     "day": 4,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "İnnâ lillâhi ve innâ ileyhi râciûn",
+    "zikir_ar": "لَا اِلٰهَ اِلَّا اللّٰهُ",
+    "zikir_tr": "Lâ ilâhe illallâh",
     "hedef": "100",
-    "anlam": "Şüphesiz biz Allah’a aidiz ve O’na döneceğiz."
+    "anlam": "Allah’tan başka ilah yoktur."
   },
   {
     "day": 5,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Allâhumme innî eûzu bike minel-hemmi vel-hazeni",    
+    "zikir_ar": "لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+    "zikir_tr": "Lâ havle ve lâ kuvvete illâ billâh",
     "hedef": "100",
-    "anlam": "Allah’ım, üzüntü ve kederden Sana sığınırım."
+    "anlam": "Güç ve kuvvet yalnız Allah’tandır."
   },
-    {
+  {
     "day": 6,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "أَسْتَغْفِرُ اللَّهَ",
+    "zikir_tr": "Astagfirullâh",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’tan bağışlanma dilerim."
   },
-    {
+  {
     "day": 7,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "حَسْبِيَ اللَّهُ لَا إِلٰهَ إِلَّا هُوَ",
+    "zikir_tr": "Hasbiyallâhu lâ ilâhe illâ huve",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah bana yeter, O’ndan başka ilah yoktur."
   },
-    {
+  {
     "day": 8,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "zikir_tr": "Subhânallâhi ve bi hamdihî",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’ı tenzih ederim, O’na hamd ederim."
   },
-    {
+  {
     "day": 9,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ",
+    "zikir_tr": "Subhânallâhil azîm ve bi hamdihî",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Yüce Allah’ı tenzih eder, O’na hamd ederim."
   },
-    {
+  {
     "day": 10,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "لَا إِلٰهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "zikir_tr": "Lâ ilâhe illâ ente sübhâneke innî kuntu minez-zâlimîn",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Senden başka ilah yok; seni tenzih ederim, ben zalimlerden oldum."
   },
-    {
+  {
     "day": 11,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ",
+    "zikir_tr": "Rabbiğfir lî ve tub aleyye",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Rabbim! Beni bağışla, tevbemi kabul et."
   },
-    {
+  {
     "day": 12,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "رَضِيتُ بِاللّٰهِ رَبًّا",
+    "zikir_tr": "Radîtu billâhi rabben",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Rabb olarak Allah'tan razı oldum."
   },
-    {
+  {
     "day": 13,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللهم صل وسلم على نبينا محمد",
+    "zikir_tr": "Eûzu bikelimâtillahi’t-temmâti min şerri ma halak",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’ım Nebimiz Muhammed’e salat ve selam eyle."
   },
-    {
+  {
     "day": 14,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُمَّ اغْفِرْ لِي",
+    "zikir_tr": "Allâhummağfir lî",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’ım, beni bağışla."
   },
-    {
+  {
     "day": 15,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُمَّ ارْزُقْنِي",
+    "zikir_tr": "Allâhummerzuknî",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’ım, bana rızık ver."
   },
-    {
+  {
     "day": 16,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "يَا حَيُّ يَا قَيُّومُ",
+    "zikir_tr": "Yâ Hayyu Yâ Kayyûm",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Ey diri ve her şeyi ayakta tutan Allah!"
   },
-    {
+  {
     "day": 17,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "سُبْحَانَ ذِي الْجَبَرُوتِ وَالْمَلَكُوتِ وَالْكِبْرِيَاءِ وَالْعَظَمَةِ",
+    "zikir_tr": "Subhâne zîl-ceberûti vel-melakûti vel-kibriyâi vel-azameh",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Cebbar, Mülk, Büyüklük ve Azamet sahibi Allah’ı tenzih ederim."
   },
-    {
+  {
     "day": 18,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُ نُورُ السَّمَاوَاتِ وَالْأَرْضِ",
+    "zikir_tr": "Allâhu nûrus-semâvâti vel-ard",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah göklerin ve yerin nurudur."
   },
-    {
+  {
     "day": 19,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "تَوَكَّلْتُ عَلَى اللّٰهِ",
+    "zikir_tr": "Tevekkeltu alallâh",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’a tevekkül ettim."
   },
-    {
+  {
     "day": 20,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "يَا رَحْمٰنُ يَا رَحِيمُ",
+    "zikir_tr": "Yâ Rahmânu Yâ Rahîm",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Ey Rahmân, ey Rahîm!"
   },
-    {
+  {
     "day": 21,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "يَا غَفُورُ يَا كَرِيمُ",
+    "zikir_tr": "Yâ Gafûru Yâ Kerîm",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Ey bağışlayan, ey cömert olan Allah!"
   },
-    {
+  {
     "day": 22,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُمَّ حَسْبُنَا وَنِعْمَ الْوَكِيلُ",
+    "zikir_tr": "Allâhumme hasbunâ ve ni’me’l-vekîl",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah bize yeter, O ne güzel vekildir."
   },
-    {
+  {
     "day": 23,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+    "zikir_tr": "Allâhu lâ ilâhe illâ huvel hayyul kayyûm",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’tan başka ilah yoktur, O diri ve kaim olandır."
   },
-    {
+  {
     "day": 24,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "رَبِّ زِدْنِي عِلْمًا",
+    "zikir_tr": "Rabbi zidnî ilmâ",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Rabbim! İlmimi artır.",
   },
-    {
+  {
     "day": 25,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ",
+    "zikir_tr": "Rabbi evzi’nî en eşkure ni‘metek",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Rabbim! Bana verdiğin nimetlere şükretmeyi bana ilham et.",
   },
-    {
+  {
     "day": 26,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُمَّ ثَبِّتْ قَلْبِي عَلَى دِينِكَ",
+    "zikir_tr": "Allâhumme sebbit kalbî alâ dînik",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’ım! Kalbimi dinin üzere sabit kıl.",
   },
   {
     "day": 27,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ",
+    "zikir_tr": "Rabbena tekabbel minnâ inneke entes-semîul alîm",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Rabbimiz! Bizden (amellerimizi) kabul buyur; şüphesiz sen işiten ve bilensin.",
   },
   {
     "day": 28,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "اللّٰهُمَّ اجْعَلْنِي مِنَ التَّوَّابِينَ وَاجْعَلْنِي مِنَ الْمُتَطَهِّرِينَ",
+    "zikir_tr": "Allâhumme’c’alnî mine’t-tevvâbîn ve’c’alnî mine’l-mutatahhirîn",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
+    "anlam": "Allah’ım! Beni tevbe edenlerden ve temizlenenlerden eyle.",
   },
   {
     "day": 29,
-    "zikir_ar": "اَلْحَمْدُ ِللَّهِ الَّذِى أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
-    "zikir_tr": "Lâ ilâhe illallah ",    
+    "zikir_ar": "بِسْمِ الله الّذِي لا يَضُرّ مَعَ اسْمِهِ شَيْءٌ في الأرْضِ وَلا في السّمَاءِ وَهُوَ السّمِيعُ العَلِيمُ",
+    "zikir_tr": "Bismillâhillezi lâ yedurru mea ismihi şey’un fi’l ardi ve lâ fi’s-semâi ve huve’s-semi’ul alim",
     "hedef": "100",
-    "anlam": "Allah’tan başka ilah yoktur"
-  }
+    "anlam": "İsmiyle yerde ve gökte hiç bir şeyin zarar veremeyeceği Allah’ın adıyla. O, hakkıyla işiten ve her şeyi bilendir."
+  },
 ]
-
-
-
-
-
-
