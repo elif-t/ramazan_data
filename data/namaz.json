@@ -1,22 +1,27 @@
 [
   {
     "namaz": "Kuranda Namaz Var mı?",
-    "namaz_bilgi": "Kur'an'da namaz, Allah'a yönelişin temel ibadetidir. Birçok ayette 'salat' kelimesiyle geçer. (Bakara, 43)"
+    "namaz_bilgi": "Kur'an'da namaz, Allah'a yönelişin temel ibadetidir. Birçok ayette 'salat' kelimesiyle geçer.",
+    "referans": "Bakara, 43"
   },
   {
     "namaz": "Kuranda Namaz Nasıl Kılınır?",
-    "namaz_bilgi": "Kur'an'da namazın Allah'ı anmak, kıyam, rüku ve secde ile eda edilmesi emredilir. (Hac, 77)"
+    "namaz_bilgi": "Kur'an'da namazın Allah'ı anmak, kıyam, rüku ve secde ile eda edilmesi emredilir.",
+    "referans": "Hac, 77"
   },
   {
     "namaz": "Kuranda Namaz Kaç Rekat?",
-    "namaz_bilgi": "Kur'an'da rekat sayıları belirtilmez, bu bilgiler Hz. Peygamber'in sünnetinden öğrenilir."
+    "namaz_bilgi": "Kur'an'da rekat sayıları belirtilmez, bu bilgiler Hz. Peygamber'in sünnetinden öğrenilir.",
+    "referans": "Sünnet kaynakları"
   },
   {
     "namaz": "Teheccüd Namazı",
-    "namaz_bilgi": "Geceleyin uyanıp, yalnız sana mahsus olarak fazladan namaz kıl. Belki de Rabbin seni övülecek makama yükseltir. (İsra, 79)"
+    "namaz_bilgi": "Geceleyin uyanıp, yalnız sana mahsus olarak fazladan namaz kıl. Belki de Rabbin seni övülecek makama yükseltir.",
+    "referans": "İsra, 79"
   },
   {
     "namaz": "Farz Namazlar",
-    "namaz_bilgi": "Günde beş vakit namaz farzdır: sabah, öğle, ikindi, akşam, yatsı. Her biri Allah tarafından emredilmiştir."
+    "namaz_bilgi": "Günde beş vakit namaz farzdır: sabah, öğle, ikindi, akşam, yatsı. Her biri Allah tarafından emredilmiştir.",
+    "referans": "Nisa, 103"
   }
 ]
