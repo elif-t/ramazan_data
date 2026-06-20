@@ -3,5 +3,45 @@
     "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
     "okunus": "Sübhanallahi ve bihamdihi",
     "anlam": "Allah'ı noksan sıfatlardan tenzih eder, O'na hamd ederim."
+  },
+  {
+    "arabic": "سُبْحَانَ اللَّهِ",
+    "okunus": "Subhânallâh",
+    "anlam": "Allah noksan sıfatlardan uzaktır."
+  },
+  {
+    "arabic": "اَلْـحَمْدُ لِلّٰهِ",
+    "okunus": "Elhamdulillâh",
+    "anlam": "Hamd Allah’a mahsustur."
+  },
+  {
+    "arabic": "لَا حَوْلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ",
+    "okunus": "Lâ havle ve lâ kuvvete illâ billâh",
+    "anlam": "Güç ve kuvvet yalnız Allah’tandır."
+  },
+  {
+    "arabic": "أَسْتَغْفِرُ اللَّهَ",
+    "okunus": "Astagfirullâh",
+    "anlam": "Allah’tan bağışlanma dilerim."
+  },
+  {
+    "arabic": "حَسْبِيَ اللَّهُ لَا إِلٰهَ إِلَّا هُوَ",
+    "okunus": "Hasbiyallâhu lâ ilâhe illâ huve",
+    "anlam": "Allah bana yeter, O’ndan başka ilah yoktur."
+  },
+  {
+    "arabic": "يَا رَحْمٰنُ يَا رَحِيمُ",
+    "okunus": "Yâ Rahmânu Yâ Rahîm",
+    "anlam": "Ey Rahmân, ey Rahîm!"
+  },
+  {
+    "arabic": "يَا غَفُورُ يَا كَرِيمُ",
+    "okunus": "Yâ Gafûru Yâ Kerîm",
+    "anlam": "Ey bağışlayan, ey cömert olan Allah!"
+  },
+  {
+    "arabic": "اللّٰهُمَّ حَسْبُنَا وَنِعْمَ الْوَكِيلُ",
+    "okunus": "Allâhumme hasbunâ ve ni’me’l-vekîl",
+    "anlam": "Allah bize yeter, O ne güzel vekildir."
   }
 ]
